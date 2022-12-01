@@ -1,0 +1,12 @@
+
+POST http://localhost:8080/api/v1/sms
+Content-Type: application/json
+{
+    "id": 2,
+    "firstName": "Azman",
+    "lastName": "Ojo",
+    "state": "Ekiti",
+    "dob": "2013-12-2",
+    "email": "azman@gmail.com"
+}
+
